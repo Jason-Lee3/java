@@ -4,7 +4,6 @@ public class Main {
         System.out.println("New score is " + newScore);
 
         calculateScore(75);
-        calculateScore(100, 100);
     }
 
     public static int calculateScore(String playerName, int score) {
