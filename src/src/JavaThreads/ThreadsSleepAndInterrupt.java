@@ -57,7 +57,6 @@ public class ThreadsSleepAndInterrupt {
         } catch (InterruptedException e) {
             throw new RuntimeException(e);
         }
-        if )
     }
 
 }
